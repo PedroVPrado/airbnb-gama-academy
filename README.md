@@ -18,12 +18,5 @@ Ter uma página elegantosa, como a exibida ao lado. Nessa página, deve conter:
 
 Onde, os dados dos cards deverão ser exibidos através de uma requisição em API externa.
 
-## Passo-a-passo
-
-1. Faça o fork desse repositório;
-2. Clone o seu repositório para seu ambiente local;
-3. Acesse a pasta do seu projeto e execute `npm install`;
-4. Bora pro desafio!
-
 ## Agradecimentos
 @douglasmaiabr, ex-aluno do Gama Experience que mantém disponibilizado a API para consultarmos. ;)
